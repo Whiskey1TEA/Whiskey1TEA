@@ -1,6 +1,6 @@
 👋 Hi, I’m @Whiskey1TEA
  👀 I’m interested in ...Ham Radio, including EHF, ELF
- 🌱 I’m currently learning ...Golang, python, Assembly, C
+ 🌱 I’m currently learning ...Golang, C
  💞️ I’m looking to collaborate on ...
  📫 How to reach me ...lurking on Youtube chat.
 
